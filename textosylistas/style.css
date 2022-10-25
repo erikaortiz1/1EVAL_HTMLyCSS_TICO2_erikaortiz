@@ -6,3 +6,9 @@ span.negrita {
 span.pequenia {
     font-size: smaller;
 }
+ul{
+    list-style-type: lower-greek;
+}
+ol{
+    list-style-image: url("img/icon20.jpg");
+}
